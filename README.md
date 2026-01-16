@@ -66,6 +66,7 @@ Java + JDBC + MySQL based role-driven CRUD system for academic management.
 ## 📫 Contact
 - Email: anuska.dasguptaa@gmail.com
 - GitHub: https://github.com/anu31d
+- Linked In: https://www.linkedin.com/in/anuska-dasgupta-232a30293/
 - Portfolio: https://anu31d.github.io/AnuskaDasgupta-Portfolio/
 
 Thanks for stopping by! 😊
